@@ -1,0 +1,49 @@
+---
+title: "Homework: Ch5 and Ch6 Exercises"
+author: "YOUR NAME HERE"
+date: "September 21, 2022 @ 12 pm"
+output: html_notebook
+---
+
+# Exercise 5.3 
+
+```{r}
+# Put my code here 
+# When you render the .nb.html document, the plot will appear
+# Make sure you load the appropriate packages 
+
+```
+
+
+# Exercise 6.1 
+
+1. My answer to part 1
+
+2. My answer to part 2
+
+3. My answer to part 3 
+
+
+
+# Exercise 6.2
+
+1. My answer to part 1
+
+2. My answer to part 2
+
+3. My answer to part 3 
+
+
+
+# Exercise 6.5
+
+My answer is ... 
+
+
+
+# Exercise 6.6
+
+My answer is ... 
+
+
+
